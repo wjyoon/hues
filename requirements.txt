@@ -10,7 +10,7 @@ py==1.8.0
 pyfakefs==3.5.8
 pytest==5.0.0
 pytest-cov==2.7.1
-pytest-runner==2.12
+pytest-runner==5.1
 python-mimeparse==1.6.0
 PyYAML==3.12
 requests==2.18.4
